@@ -1,0 +1,17 @@
+{
+  "name": "FunctionFox-Report",
+  "description": "This app generates sanitized, formatted json and csv files from an exported FunctionFox report",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "Hippocratic License v1.0",
+  "author": {
+    "name": "Paul Shryock",
+    "email": "paul@pshry.com",
+    "url": "https://pshry.com/"
+  },
+  "dependencies": {
+    "json2csv": "^4.5.3"
+  }
+}
